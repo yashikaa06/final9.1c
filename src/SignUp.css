@@ -1,0 +1,28 @@
+/* Signup.css */
+.signup-button {
+    background-color:blue;
+    color: rgb(255, 255, 255);
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  .signup-button:hover {
+    opacity: 0.9;
+  }
+  
+  .google-signup-button {
+    background-color: blue;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-left: 10px;
+  }
+  
+  .google-signup-button:hover {
+    opacity: 0.9;
+  }
+  

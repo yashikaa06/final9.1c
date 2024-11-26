@@ -1,0 +1,27 @@
+.login-container {
+  margin-top: 100px;
+  text-align: center;
+  align-self: center  ;
+  padding: 20px;
+  background-color: #f9f9f9;
+  border: 1px solid #ddd;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  width: 300px;
+  margin-left: auto;
+  margin-top: 100px;
+  margin-right: auto;
+  border-radius: 8px;
+}
+
+
+.app-background {
+  background-image: url('./source/image.png'); /* Path to your background image */
+  background-size: cover; /* Cover the entire visible area */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Prevent tiling */
+  height: calc(100vh - 60px); /* Subtract navbar height (adjust if needed) */
+  width: 100%; /* Full width */
+  overflow: hidden; /* Prevent scrolling */
+  margin-top: 60px; /* Match the navbar's height */
+}
+

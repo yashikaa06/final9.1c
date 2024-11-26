@@ -1,0 +1,44 @@
+.login-button {
+  background-color: blue;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.login-button:hover {
+  opacity: 0.9;
+}
+
+.google-login-button {
+  background-color: blue;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  font-size: 16px;
+  margin-left: 10px;
+}
+
+.google-login-button:hover {
+  opacity: 0.9;
+}
+
+.login-container {
+  width: 20px; 
+  height: auto; 
+  margin: 200px; 
+  padding: 200px;
+  background-color: #f9f9f9;
+  border: 1px solid #ddd;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  position: absolute;
+  top: 50%; 
+  left: 50%;
+  transform: translate(-50%, -50%); 
+  text-align: center;
+
+}
+
